@@ -1,0 +1,635 @@
+[
+    {
+        "timestamp": "2026-06-25 14:51:09",
+        "emotion": "calm",
+        "confidence": 0.9990804313727102,
+        "risk_score": 13.0,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude.",
+            "Use this clear, stable state for deep work, planning, or complex decision-making.",
+            "Consider writing down your current mindset to refer to during stressful times."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 14:52:39",
+        "emotion": "angry",
+        "confidence": 0.8889091314831714,
+        "risk_score": 89.4,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try the 4-7-8 breathing method: inhale for 4s, hold for 7s, exhale slowly for 8s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or take a brisk walk.",
+            "Take a short break from the current environment before responding to messages or making choices.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:02:22",
+        "emotion": "sad",
+        "confidence": 0.9690963151800115,
+        "risk_score": 64.5,
+        "wellness_status": "Distressed / Low Energy",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try a grounding touch: Wrap yourself in a warm blanket or hold a warm cup of tea.",
+            "Allow yourself to feel. It's okay to have low-energy moments. Be gentle with yourself.",
+            "Step outside for 5 minutes of natural light to naturally signal your circadian rhythm."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:03:26",
+        "emotion": "calm",
+        "confidence": 0.9833254937603252,
+        "risk_score": 13.4,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude.",
+            "Use this clear, stable state for deep work, planning, or complex decision-making.",
+            "Consider writing down your current mindset to refer to during stressful times."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:05:14",
+        "emotion": "calm",
+        "confidence": 0.9833254937603252,
+        "risk_score": 13.4,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude.",
+            "Use this clear, stable state for deep work, planning, or complex decision-making.",
+            "Consider writing down your current mindset to refer to during stressful times."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:05:45",
+        "emotion": "calm",
+        "confidence": 0.9833254937603252,
+        "risk_score": 13.4,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude.",
+            "Use this clear, stable state for deep work, planning, or complex decision-making.",
+            "Consider writing down your current mindset to refer to during stressful times."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:06:52",
+        "emotion": "neutral",
+        "confidence": 0.7800096134612237,
+        "risk_score": 22.4,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "You are at a balanced baseline. This is an excellent time for focused productivity.",
+            "Incorporate a light stretch to keep physical energy aligned with your neutral mind.",
+            "Engage in a creative brainstorming session while cognitive filters are relaxed."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:12:29",
+        "emotion": "happy",
+        "confidence": 0.898944737435664,
+        "risk_score": 24.5,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:12:34",
+        "emotion": "happy",
+        "confidence": 0.898944737435664,
+        "risk_score": 24.5,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:12:37",
+        "emotion": "happy",
+        "confidence": 0.898944737435664,
+        "risk_score": 24.5,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 15:12:38",
+        "emotion": "happy",
+        "confidence": 0.898944737435664,
+        "risk_score": 24.5,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 16:15:08",
+        "emotion": "happy",
+        "confidence": 0.9975603514282854,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 16:27:55",
+        "emotion": "happy",
+        "confidence": 0.9966742838075757,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 16:27:56",
+        "emotion": "surprised",
+        "confidence": 0.9954932409110068,
+        "risk_score": 38.0,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Stabilize your heart rate with 3 slow, deep diaphragmatic breaths.",
+            "Take a moment to process the surprising event before acting on impulse.",
+            "Determine if the surprise requires a response, or if it is simply new information."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 16:29:22",
+        "emotion": "disgust",
+        "confidence": 0.9769116116671913,
+        "risk_score": 69.4,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Cleanse your space: tidy up your desk, open a window for fresh air, or wash your hands.",
+            "Reflect on what caused the aversion and list actionable steps to establish better boundaries.",
+            "Drink a glass of cold water to physically reset your sensory focus."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 17:31:36",
+        "emotion": "disgust",
+        "confidence": 0.9991904040128229,
+        "risk_score": 70.0,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Cleanse your space: tidy up your desk, open a window for fresh air, or wash your hands.",
+            "Reflect on what caused the aversion and list actionable steps to establish better boundaries.",
+            "Drink a glass of cold water to physically reset your sensory focus."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 17:54:17",
+        "emotion": "happy",
+        "confidence": 0.9957705603560725,
+        "risk_score": 23.1,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 17:54:26",
+        "emotion": "happy",
+        "confidence": 0.9957705603560725,
+        "risk_score": 23.1,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:09:30",
+        "emotion": "fearful",
+        "confidence": 1.0,
+        "risk_score": 90.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Ground yourself using the 5-4-3-2-1 technique: list 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste.",
+            "Affirm safety: take slow deep breaths, reminding yourself that you are in a safe space right now.",
+            "Reduce sensory inputs: dim lights, silence notifications, and close your eyes for a few moments.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:10:59",
+        "emotion": "angry",
+        "confidence": 0.9999999951168395,
+        "risk_score": 100.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try the 4-7-8 breathing method: inhale for 4s, hold for 7s, exhale slowly for 8s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or take a brisk walk.",
+            "Take a short break from the current environment before responding to messages or making choices.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:11:06",
+        "emotion": "angry",
+        "confidence": 0.9999999951168395,
+        "risk_score": 100.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try the 4-7-8 breathing method: inhale for 4s, hold for 7s, exhale slowly for 8s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or take a brisk walk.",
+            "Take a short break from the current environment before responding to messages or making choices.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:11:17",
+        "emotion": "angry",
+        "confidence": 0.9999999951168395,
+        "risk_score": 100.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try the 4-7-8 breathing method: inhale for 4s, hold for 7s, exhale slowly for 8s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or take a brisk walk.",
+            "Take a short break from the current environment before responding to messages or making choices.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:13:24",
+        "emotion": "angry",
+        "confidence": 0.9999999951168395,
+        "risk_score": 100.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Try the 4-7-8 breathing method: inhale for 4s, hold for 7s, exhale slowly for 8s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or take a brisk walk.",
+            "Take a short break from the current environment before responding to messages or making choices.",
+            "💡 Consider talking to a trusted friend or speaking with a counseling professional to help unpack these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:17:27",
+        "emotion": "disgust",
+        "confidence": 1.0,
+        "risk_score": 70.0,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Cleanse your space: tidy up your desk, open a window for fresh air, or wash your hands.",
+            "Reflect on what caused the aversion and list actionable steps to establish better boundaries.",
+            "Drink a glass of cold water to physically reset your sensory focus."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:17:55",
+        "emotion": "happy",
+        "confidence": 0.999994314703951,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:18:15",
+        "emotion": "disgust",
+        "confidence": 0.9999999035530811,
+        "risk_score": 70.0,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "🚨 **Highly Elevated Arousal detected**: Pause what you are doing and take a full 2-minute break.",
+            "Cleanse your space: tidy up your desk, open a window for fresh air, or wash your hands.",
+            "Reflect on what caused the aversion and list actionable steps to establish better boundaries.",
+            "Drink a glass of cold water to physically reset your sensory focus."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:18:34",
+        "emotion": "happy",
+        "confidence": 0.47719093940775315,
+        "risk_score": 30.8,
+        "wellness_status": "Expressive / Enthusiastic",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:22:30",
+        "emotion": "happy",
+        "confidence": 0.9997452206446745,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:23:02",
+        "emotion": "happy",
+        "confidence": 0.9998596130589052,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:41:17",
+        "emotion": "calm",
+        "confidence": 0.7111214164382659,
+        "risk_score": 20.2,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude.",
+            "Use this clear, stable state for deep work, planning, or complex decision-making.",
+            "Consider writing down your current mindset to refer to during stressful times."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 22:42:23",
+        "emotion": "happy",
+        "confidence": 0.9999999999681253,
+        "risk_score": 23.0,
+        "wellness_status": "Vibrant & Positive",
+        "recommendations": [
+            "Capture this positive energy: write down 3 things you are happy about.",
+            "Spread the warmth—reach out to a friend, colleague, or loved one to say hello.",
+            "Use this high-motivation window to tackle challenging or stalled tasks."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:22:34",
+        "emotion": "fearful",
+        "confidence": 1.0,
+        "risk_score": 96.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Try progressive muscle relaxation: tense and release each muscle group from feet to shoulders.",
+            "Affirm your safety: take slow deep breaths, remind yourself you are in a safe space.",
+            "Ground yourself using the 5-4-3-2-1 technique: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+            "💡 Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:23:35",
+        "emotion": "fearful",
+        "confidence": 0.9999999999990077,
+        "risk_score": 90.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Ground yourself using the 5-4-3-2-1 technique: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+            "Talk to someone you trust — verbalising fear reduces its perceived intensity.",
+            "Focus on one small, concrete task to redirect attention away from the source of fear.",
+            "💡 Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:23:41",
+        "emotion": "fearful",
+        "confidence": 0.9999999999990077,
+        "risk_score": 90.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Ground yourself using the 5-4-3-2-1 technique: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+            "Try progressive muscle relaxation: tense and release each muscle group from feet to shoulders.",
+            "Affirm your safety: take slow deep breaths, remind yourself you are in a safe space.",
+            "💡 Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:23:52",
+        "emotion": "fearful",
+        "confidence": 0.9999999999990077,
+        "risk_score": 90.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Focus on one small, concrete task to redirect attention away from the source of fear.",
+            "Talk to someone you trust — verbalising fear reduces its perceived intensity.",
+            "Try progressive muscle relaxation: tense and release each muscle group from feet to shoulders.",
+            "💡 Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:24:37",
+        "emotion": "angry",
+        "confidence": 0.9775460724928071,
+        "risk_score": 97.6,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Practice deep breathing: 10 slow, deliberate breaths before re-engaging.",
+            "Try the 4-7-8 breathing method: inhale 4 s, hold 7 s, exhale slowly 8 s.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or walk briskly.",
+            "💡 Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-25 23:25:54",
+        "emotion": "disgust",
+        "confidence": 0.9999999941217916,
+        "risk_score": 74.0,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "🚨 **Elevated Arousal detected** — pause your current activity and take a 2-minute break.",
+            "Shift your attention deliberately to something neutral or enjoyable.",
+            "Reflect on what caused the aversion and list actionable steps to set better boundaries.",
+            "Drink a glass of cold water to physically reset your sensory focus."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 07:51:18",
+        "emotion": "fearful",
+        "confidence": 0.9999980926513672,
+        "risk_score": 90.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "Elevated arousal detected — pause your current activity and take a 2-minute break.",
+            "Try progressive muscle relaxation: tense and release each muscle group from feet to shoulders.",
+            "Affirm your safety: take slow deep breaths, remind yourself you are in a safe space.",
+            "Reduce sensory inputs: dim lights, silence notifications, close your eyes briefly.",
+            "Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:33:14",
+        "emotion": "sad",
+        "confidence": 0.4449112117290497,
+        "risk_score": 57.0,
+        "wellness_status": "Subdued / Vulnerable",
+        "recommendations": [
+            "Try a grounding touch: wrap yourself in a warm blanket or hold a warm cup of tea.",
+            "Listen to calming or uplifting music that resonates with your current mood.",
+            "Consider journaling: writing about feelings can reduce their emotional intensity."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:33:51",
+        "emotion": "calm",
+        "confidence": 0.9978359341621399,
+        "risk_score": 19.1,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Take a short walk in nature to deepen the sense of ease you are feeling.",
+            "Share your calm energy — a relaxed presence positively influences those around you.",
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:34:28",
+        "emotion": "calm",
+        "confidence": 0.9436222314834595,
+        "risk_score": 21.7,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Use this stable state for deep work, planning, or complex decision-making.",
+            "Try a brief body scan: close your eyes and release any areas of tension.",
+            "Maintain this peaceful state by practicing 2 minutes of focused gratitude."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:35:04",
+        "emotion": "neutral",
+        "confidence": 0.7720567584037781,
+        "risk_score": 32.1,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Plan your next goals while your thinking is clear and unbiased.",
+            "Incorporate a light stretch to keep physical energy aligned with your neutral mind.",
+            "Stay hydrated and maintain your current routine; stability is valuable."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:35:57",
+        "emotion": "neutral",
+        "confidence": 0.7720567584037781,
+        "risk_score": 32.1,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Incorporate a light stretch to keep physical energy aligned with your neutral mind.",
+            "Stay hydrated and maintain your current routine; stability is valuable.",
+            "Engage in creative brainstorming while cognitive filters are relaxed."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:36:16",
+        "emotion": "calm",
+        "confidence": 0.8558295965194702,
+        "risk_score": 25.7,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Share your calm energy — a relaxed presence positively influences those around you.",
+            "Write down your current mindset to reference during stressful times.",
+            "Take a short walk in nature to deepen the sense of ease you are feeling."
+        ]
+    },
+    {
+        "timestamp": "2026-06-26 09:37:23",
+        "emotion": "surprised",
+        "confidence": 0.8893044590950012,
+        "risk_score": 47.0,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Take a moment to process the surprising event before acting on impulse.",
+            "Give yourself permission to pause — considered responses are always better than reactive ones.",
+            "Determine if the surprise requires an immediate response or simply new information to absorb."
+        ]
+    },
+    {
+        "timestamp": "2026-06-27 01:22:05",
+        "emotion": "calm",
+        "confidence": 0.999967098236084,
+        "risk_score": 19.0,
+        "wellness_status": "Balanced & Calm",
+        "recommendations": [
+            "Try a brief body scan: close your eyes and release any areas of tension.",
+            "Share your calm energy — a relaxed presence positively influences those around you.",
+            "Use this stable state for deep work, planning, or complex decision-making."
+        ]
+    },
+    {
+        "timestamp": "2026-06-27 01:22:39",
+        "emotion": "disgust",
+        "confidence": 0.9999932050704956,
+        "risk_score": 80.0,
+        "wellness_status": "Stressed / Elevated Arousal",
+        "recommendations": [
+            "Elevated arousal detected — pause your current activity and take a 2-minute break.",
+            "Cleanse your space: tidy your desk, open a window for fresh air, or wash your hands.",
+            "Avoid ruminating on the source; redirect attention is more effective than analysis.",
+            "Reflect on what caused the aversion and list steps to set better boundaries."
+        ]
+    },
+    {
+        "timestamp": "2026-06-27 01:22:52",
+        "emotion": "surprised",
+        "confidence": 0.9999961853027344,
+        "risk_score": 47.0,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Give yourself permission to pause — considered responses are always better than reactive ones.",
+            "Stabilise your heart rate with 3 slow, deep diaphragmatic breaths.",
+            "Talk through the surprise with someone if it feels overwhelming."
+        ]
+    },
+    {
+        "timestamp": "2026-06-27 01:23:47",
+        "emotion": "surprised",
+        "confidence": 0.9999995231628418,
+        "risk_score": 47.0,
+        "wellness_status": "Receptive / Attentive",
+        "recommendations": [
+            "Stabilise your heart rate with 3 slow, deep diaphragmatic breaths.",
+            "Talk through the surprise with someone if it feels overwhelming.",
+            "Briefly review the facts — separating facts from interpretations helps."
+        ]
+    },
+    {
+        "timestamp": "2026-06-27 01:24:38",
+        "emotion": "angry",
+        "confidence": 0.9999994039535522,
+        "risk_score": 100.0,
+        "wellness_status": "Overwhelmed / High Distress",
+        "recommendations": [
+            "Elevated arousal detected — pause your current activity and take a 2-minute break.",
+            "Drink a full glass of cold water — hydration helps regulate emotional arousal.",
+            "Resume your work or conversation only after you feel physically calmer.",
+            "Release physical tension: open and close your fists, do shoulder shrugs, or walk briskly.",
+            "Consider talking to a trusted friend or a counseling professional to help process these intense feelings."
+        ]
+    }
+]
