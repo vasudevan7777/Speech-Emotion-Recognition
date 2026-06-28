@@ -1,0 +1,16 @@
+streamlit==1.49.1
+numpy==1.26.4
+pandas==2.2.3
+tensorflow==2.19.0
+librosa==0.11.0
+soundfile==0.13.1
+soxr==0.5.0.post1
+audioread==3.0.1
+scikit-learn==1.6.1
+joblib==1.5.1
+scipy==1.15.2
+plotly==6.0.1
+matplotlib==3.10.1
+seaborn==0.13.2
+pillow==11.2.1
+colorama==0.4.6
